@@ -11,3 +11,5 @@ Used tech:
  In order to start the applicatiom:
   1. Install node modules: npm i.
   2. Run the applciation: npm start.
+
+Public API url: http://api.open-notify.org/astros.json
